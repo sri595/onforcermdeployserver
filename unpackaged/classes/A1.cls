@@ -1,0 +1,9 @@
+public class A1
+{
+
+
+
+String a;
+String b;
+String c;
+}
